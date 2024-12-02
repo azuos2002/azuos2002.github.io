@@ -1,0 +1,204 @@
+#logo {
+    weight: 60px;
+    height: 60px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#header {
+    display: flex;
+    flex-direction: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(255, 228, 187);
+    height: 60px;
+    box-shadow: 2px 2px 16px black;
+    border-radius: 15px;
+}
+#button1 {
+    weight: 30px;
+    height: 30px;
+    margin-right: 12px;
+    background-color: #ff7b00;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+#button2 {
+    weight: 30px;
+    height: 30px;
+    margin-right: 45px;
+    margin-top: 1px;
+    background-color: black;
+    color: #ffffff;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+body {
+    background-image: url(./img/henesys2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    font-family: "Dancing Script", cursive;
+    justify-content: center;
+    display: flex;
+}
+#Maplestory {
+    color: #000000;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+#caixa {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 300px;
+    background-color: white;
+    box-shadow: 2px 2px 16px;
+    border-radius: 20px;
+    background-color: rgb(255, 228, 187);
+    background-position: 15px 75px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    background-image: url(./img/fig3.png);
+    background-size: 220px;
+}
+
+#donwload {
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ff7b00;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#guide {
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ff7b00;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#ranking {
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ff7b00;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#discord {
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ff7b00;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#donate {
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ff7b00;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#vote {
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: #ff7b00;
+    color: #ffffff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#buttons {
+    margin: 25px;
+    background-color: #ff7b00;
+    weight: 50px;
+    height: 35px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+}
+#registrar {
+    width: 600px;
+    height: 400px;
+    background-color: rgb(255, 228, 187);
+    border-radius: 20px;
+    margin-top: 140px;
+}
+#voltar {
+    justify-content: right;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    background-color: #ff7b00;
+    color: #ffffff;
+    width: 50px;
+    margin: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+#text {
+    margin-top: 0px;
+    margin-left: 100px;
+    flex-direction: column;
+}
+#cadastrar {
+    justify-items: center;
+    margin-top: 20px;
+}
+#btn-login {
+    background-color: #ff7b00;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    margin-top: 20px;
+    height: 30px;
+}
+#ColocarUsuário {
+    width: 220px;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+}
+#ColocarSenha {
+    width: 220px;
+    height: 20px;
+    border: none;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#video {
+    margin-left: 55px;
+    margin-top: 20px;
+}
